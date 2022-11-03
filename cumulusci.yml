@@ -3,6 +3,7 @@ project:
     name: Ice-Cream-Bank
     package:
         name: Ice-Cream-Bank
+        namespace: icecreampackage
         api_version: '55.0'
     git:
         default_branch: 'main'
